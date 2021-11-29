@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/rjskg/OneDrive/Desktop/android development/AndroidMe/app/src/main/res/layout-land/activity_main.xml" value="0.21875" />
+        <entry key="..\:/Users/rjskg/OneDrive/Desktop/android development/AndroidMe/app/src/main/res/layout/activity_android_me.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/rjskg/OneDrive/Desktop/android development/AndroidMe/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/rjskg/OneDrive/Desktop/android development/AndroidMe/app/src/main/res/layout/fragment_body_part.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/rjskg/OneDrive/Desktop/android development/AndroidMe/app/src/main/res/layout/fragment_master_list.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>
